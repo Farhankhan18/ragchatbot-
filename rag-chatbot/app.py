@@ -22,10 +22,10 @@ st.markdown("""
    [Get your API key here](https://makersuite.google.com/app/apikey).
 
 2. **📄 Upload Your Documents:**  
-   Upload multiple PDF files for processing. The content will be analyzed, chunked, and stored in a searchable vector database.
+   Upload multiple PDF files .
 
 3. **❓ Ask Your Questions:**  
-   Once the documents are processed, ask any question related to the content. You'll receive precise answers based on your uploaded documents.
+   
 
 ---
 """)
